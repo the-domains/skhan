@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 0.7849463
+color:
+  saturation: 0.716242
+  lightness: 0.08064516
+  brandStrength: 0.3332937
+  brandColors:
+    - '#FFAB30'
+    - '#FCFDFC'
+    - '#4B2F16'
+    - '#FF3103'
+    - '#FB8803'
+  rhythmicContrast: 0.5312737
+name: skhan
