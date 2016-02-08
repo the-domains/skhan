@@ -1,14 +1,26 @@
-layout_spectrum: 0
-typography_spectrum: 0.7849463
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.716242
-  lightness: 0.08064516
-  brandStrength: 0.3332937
+  saturation: 0.781362
+  brandStrength: 0.4802867
+  lightness: 0.3064516
   brandColors:
     - '#FFAB30'
     - '#FCFDFC'
     - '#4B2F16'
     - '#FF3103'
     - '#FB8803'
-  rhythmicContrast: 0.5312737
+  rhythmicContrast: 0.6326165
+typography_spectrum: 0.8727599
+layout_spectrum: 0
 name: skhan
