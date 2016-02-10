@@ -1,41 +1,41 @@
-name: skhan
-favicon: null
-layout_spectrum: 0.2559
-typography_spectrum: 0.92157
+title: Beta Testing Grid
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Beta Testing Grid
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.8125
+  brandStrength: 0.5035842
+  lightness: 0.5
+  brandColors:
+    - '#040405'
+    - '#E9FBFF'
+    - '#ABA299'
+    - '#1D21B3'
+    - '#90BDF2'
+  rhythmicContrast: 0.6326165
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: skhan
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#0a070e'
-    - '#feffff'
-    - '#3e5bff'
-    - '#352e71'
-    - '#6393ff'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.8125
-  rhythmicContrast: 0.6326165
-purpose: []
+typography_spectrum: 0.92157
+layout_spectrum: 0.2559
