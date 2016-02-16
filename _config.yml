@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.8125
   brandStrength: 0
-  lightness: 0.5
+  rhythmicContrast: 0.6326165
   brandColors:
     - '#040405'
     - '#E9FBFF'
     - '#ABA299'
     - '#1D21B3'
     - '#90BDF2'
-  rhythmicContrast: 0.6326165
+  lightness: 0.5
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: skhan
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.4283154
-layout_spectrum: 0
+typography_spectrum: 0.781362
+layout_spectrum: 0.59319
